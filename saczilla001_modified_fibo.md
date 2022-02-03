@@ -1,4 +1,7 @@
 # SaC for physics and applied maths
+
+_Author_ : Yann Le Du aka [ianxek](https://ianxek.github.io)
+
 # 01 : _The birth of SaCzilla_
 
 _Abstract_
@@ -15,19 +18,20 @@ I had a shock. Coming from Matlab, Julia, Python and C/C++ I had _never_ heard o
 all the features I want for my needs in scientific computations, and good expressivity, especially
 with its `with` loop. It has both an industrial look, together with the FP smoothness, you know,
 this academic texture. So it’s built by academics for engineering purposes. But SaC is quasi-absent
-from the web outside of its academic den. I saw a reference there from 2011 stating SaC was “state
-of the art”.
+from the web outside of its academic den. I saw a reference somewhere from 2011 stating SaC was “state
+of the art”... but a state of the art that has had no echo since.
 
 I thus had the idea of a series of posts around SaC benchmarks, and will write them with the help of
-Sven-Bodo Scholz (hereafter SBS): he helps me figure out what SaC is doing (also what I’m doing) and
-I write about what I do and what I think about all that. Then SBS can say what he thinks about my
-interpretation. So it is a very open-minded series, where an end-user with no serious CS background,
-like me, is exploring the possibilities offered by SaC compared to other languages. So I’ll just say
-what I think about all that, and everything I say about SaC is checked by SBS, so he might (not)
-agree with the rest (you’ll have to guess !) and of course many other will definitely not agree, and
-that’s what makes the whole series interesting too : have people discover SaC, see it’s wondrous and
-surprisingly unknown power, and start using it, and have others teach me where I’m wrong and why
-they chose not to use SaC because of course they have thought deeply about that.
+Sven-Bodo Scholz (hereafter SBS) who is SaC's designer and one of the main contributors : he helps
+me figure out what SaC is doing (also what I’m doing) and I write about what I do and what I think
+about all that. Then SBS can say what he thinks about my interpretation. So it is a very open-minded
+series, where an end-user with no serious CS background, like me, is exploring the possibilities
+offered by SaC compared to other languages. So I’ll just say what I think about all that, and
+everything I say about SaC is checked by SBS, so he might (not) agree with the rest (you’ll have to
+guess !) and of course many other will definitely not agree, and that’s what makes the whole series
+interesting too : have people discover SaC, see it’s wondrous and surprisingly unknown power, and
+start using it, and have others teach me where I’m wrong and why they chose not to use SaC because
+of course they have thought deeply about that.
 
 This series is a screenshot of my current reflection, i.e. a thoughtshot, which of course can evolve
 as other people enlighten me. It is thus an informed (thanks to SBS) yet biassed (thanks to me)
@@ -514,9 +518,12 @@ term rewriting is allowed ; SBS again :
 > hope that it would detect the absence of side effects in this case….
 
 But given the FP nature of SaC, it doesn't need to _look_ for the absence of side-effects,
-because... there are none ! More precisely, but we’ll get to that in later posts,
-SaC clearly singles out the side-effective parts, so for SaC side-effects are easy to find
-exceptions, to be marked as such so as to warn the optimizer, and not the normal situations, like in C, where you have to look for the _absence_ of side-effects, or equivalently for the _absence_ of the word "monad" in an typical FP conversation. By the way, why didn't I see that word in SaC nor for that matter in ATS, both FP languages ? :thinking:
+because... there are none ! More precisely, but we’ll get to that in later posts, SaC clearly
+singles out the side-effective parts, so for SaC side-effects are easy to find exceptions, to be
+marked as such so as to warn the optimizer, and not the normal situations, like in C, where you have
+to look for the _absence_ of side-effects, or equivalently for the _absence_ of the word "monad" in
+an typical FP conversation. By the way, why didn't I see that word in SaC nor for that matter in
+ATS, both FP languages ? :thinking:
 
 
 ## After `sac2c` optimised code is then fed to `gcc`
@@ -537,6 +544,4 @@ Try SaC, build the community, get rid of Matlab and stop eyeing its juiced girlf
 ## Exercise
 
 > Estimate how many tons of CO2 was produced in the world while you were reading, or more realistically glazing over, that post.
-
-
 
