@@ -1,10 +1,19 @@
 # The ideal materialist
 
+## Thoughtshots
+
+1. [Why Vim is my best editor.](why_vim.md)
+2. [The birth of SaCzilla](saczilla001_modified_fibo.md) : post 01 in the study of the [SaC programming
+   language](https://www.sac-home.org/doku.php)
+
 ## Philosophy
+
 > The more the universe seems comprehensible, the more it seems pointless.
+>
 > Steven weinberg, _Dreams of a final Theory_
 
 > We counter existential dread with optimistic nihilism.
+>
 > Kurzgesagt, [_Optimistic Nihilism_](https://youtu.be/MBRqu0YOH14)
 
 Because both [Bernardo
@@ -42,10 +51,4 @@ _Find me_ : I hang around on the [Cone](https://discord.gg/4RdwshKW) &
 Slack](https://sac-ylc6885.slack.com/).
 
 _Contact me at_ ianxek@{name of positively charged nucleon}mail.com
-
-## Thoughtshots
-
-1. [Why Vim is my best editor.](why_vim.md)
-2. [The birth of SaCzilla](saczilla001_modified_fibo.md) : post 01 in the study of the [SaC programming
-   language](https://www.sac-home.org/doku.php)
 
