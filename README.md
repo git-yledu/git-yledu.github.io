@@ -50,5 +50,5 @@ _Find me_ : I hang around on the [Cone](https://discord.gg/4RdwshKW) &
 [ATS](https://discord.gg/3CBHQzTk) channels on Discord, and the [SaC channel on
 Slack](https://sac-ylc6885.slack.com/).
 
-_Contact me at_ ianxek@{name of positively charged nucleon}mail.com
+_Contact me : ianxek@{name of positively charged nucleon}mail.com
 
