@@ -8,11 +8,11 @@
 
 ## Philosophy
 
-> The more the universe seems comprehensible, the more it seems pointless.
+> _The more the universe seems comprehensible, the more it seems pointless._
 >
 > Steven weinberg, _Dreams of a final Theory_
 
-> We counter existential dread with optimistic nihilism.
+> _We counter existential dread with optimistic nihilism._
 >
 > Kurzgesagt, [_Optimistic Nihilism_](https://youtu.be/MBRqu0YOH14)
 
