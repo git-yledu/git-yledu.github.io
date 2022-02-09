@@ -1,4 +1,11 @@
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 # The ideal materialist
+
+$$\frac{2x+1}{3y-4}$$
 
 ## Thoughtshots
 
