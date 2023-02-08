@@ -1,6 +1,6 @@
 # The ideal materialist
 
-$$\frac{2x+1}{3y-4}$$
+$$\left(\frac{1}{10^{5}}\sum_{n=-\infty}^{+\infty}e^{-n^{2}/10^{10}}\right)^{2}\simeq\pi$$
 
 ## Thoughtshots
 
