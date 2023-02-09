@@ -1,3 +1,7 @@
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
 # The ideal materialist
 
 $$\left(\frac{1}{10^{5}}\sum_{n=-\infty}^{+\infty}e^{-n^{2}/10^{10}}\right)^{2}\simeq\pi$$
