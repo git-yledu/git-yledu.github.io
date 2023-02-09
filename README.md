@@ -19,7 +19,7 @@ The above [formula](https://www.researchgate.net/publication/242433843_GET_BILLI
 Approximation theory is the key to understand most of today's technological world, including ML. A wonderful inway into that *mycelium concept* is [Chebfun](https://my.siam.org/Store/Product/viewproduct/?ProductId=31254869), a paradigm I have been working within for quite some time now.
 
 ## Links to some interesting links related to me and my work
-
+### General
 1. The [Tricomi Chebfun Tomography algorithmic pipeline](https://superfri.org/index.php/superfri/article/view/111).
 2. The [Ars Technica series of articles](https://arstechnica.com/science/2011/07/running-high-performance-neural-networks-on-a-gamer-gpu/) on my work (with students) at the cutting edge of ML in 2011, with Gamer GPUs - thanks Adam for your excellent journalism!
 3. [LinkedIn profile](https://www.linkedin.com/in/yann-le-du-3308609a/).
@@ -28,9 +28,11 @@ Approximation theory is the key to understand most of today's technological worl
 6. [Collected non private publications](https://scholar.google.com/citations?user=b4JXA28AAAAJ&hl=en) in Google Scholar.
 7. My very successful recent foray into the industry took place at [MWM, a wonderful French software company](https://mwm.io/) where I worked on big data statistical modeling and ML. 
 8. My [last century's software startup](https://www.infogreffe.fr/entreprise-societe/413813874-synsoft-750197B130190000.html) which I dreamed would be a new Netscape, and where we developed software for Tactile Screen Cashiers which I thought would take over the market.
-9. [Github profile](https://github.com/ianxek), with an eclectic asortment of old and newer code, most of the code is not shown because it belongs to the CNRS or, more recently, to MWM. Btw, *ianxek* is my name in [Lojban](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)!
-10. My [literate programming mode in Vim](https://gitlab.com/hpu/codoc) called *Kosmogram*
-11. My [CodeAbbey profile](https://www.codeabbey.com/index/user_profile/ianxek). Love that site, will do all the problems.
+
+### Code
+10. [Github profile](https://github.com/ianxek), with an eclectic asortment of old and newer code, most of the code is not shown because it belongs to the CNRS or, more recently, to MWM. Btw, *ianxek* is my name in [Lojban](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)!
+11. My [literate programming mode in Vim](https://gitlab.com/hpu/codoc) called *Kosmogram*
+12. My [CodeAbbey profile](https://www.codeabbey.com/index/user_profile/ianxek). Love that site, will do all the problems.
 
 ## Thoughtshots
 
