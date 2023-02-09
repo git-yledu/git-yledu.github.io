@@ -28,8 +28,9 @@ Approximation theory is the key to understand most of today's technological worl
 6. [Collected non private publications](https://scholar.google.com/citations?user=b4JXA28AAAAJ&hl=en) in Google Scholar.
 7. My very successful recent foray into the industry took place at [MWM, a wonderful French software company](https://mwm.io/) where I worked on big data statistical modeling and ML. 
 8. My [last century's software startup](https://www.infogreffe.fr/entreprise-societe/413813874-synsoft-750197B130190000.html) which I dreamed would be a new Netscape, and where we developed software for Tactile Screen Cashiers which I thought would take over the market.
-9. My [Github profile](https://github.com/ianxek), with an eclectic asortment of old and newer code, most of the code is not shown because it belongs to the CNRS or, more recently, to MWM. Btw, *ianxek* is my name in [Lojban](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)!
-10. My [CodeAbbey profile](https://www.codeabbey.com/index/user_profile/ianxek). Love that site, will do all the problems.
+9. [Github profile](https://github.com/ianxek), with an eclectic asortment of old and newer code, most of the code is not shown because it belongs to the CNRS or, more recently, to MWM. Btw, *ianxek* is my name in [Lojban](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)!
+10. My [literate programming mode in Vim](https://gitlab.com/hpu/codoc) called *Kosmogram*
+11. My [CodeAbbey profile](https://www.codeabbey.com/index/user_profile/ianxek). Love that site, will do all the problems.
 
 ## Thoughtshots
 
